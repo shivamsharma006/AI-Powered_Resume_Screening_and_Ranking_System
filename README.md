@@ -9,6 +9,6 @@ This is a simple AI-powered resume ranking app using **Streamlit**.
 
 ## AI-Powered Resume Screening and Ranking System  
 
-[Click here to access the application 🚀](https://huggingface.co/spaces/shivomb20/AI-Powered_Resume_Screening_and_Ranking_System)
+[Click here to access the application 🚀](https://huggingface.co/spaces/shivamsharma006/AI-Powered_Resume_Screening_and_Ranking_System)
 
 
